@@ -1,0 +1,36 @@
+.star {
+    font-size: 2rem;
+    color: #ff9800;
+    background-color: unset;
+    border: none;
+}
+
+table {
+    margin: 0px auto;
+    width: 80%; 
+}
+
+th {
+    column-width: auto;
+    color: white;
+}
+
+td {
+    text-align: center;
+    line-height: 10;
+    color: white;
+    font-family: 'Arial';
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+img {
+    width: 180px;
+    height: auto;
+    border-radius: 2rem;
+}
+
+body {
+    background-color: black;
+}
+
