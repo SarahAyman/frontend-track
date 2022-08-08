@@ -1,0 +1,43 @@
+#main {
+    margin: auto;
+    margin-top: 90px;
+    text-align: center;
+    width: 40%;
+    height: auto;
+}
+
+body {
+    background-color: #72A0C1;
+}
+
+.cell {
+    background-color: white;
+    margin: auto;
+    width: 140px;
+    height: 135px;
+}
+
+#b1, #b2, #b4, #b5 {
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+#b3, #b6 {
+    border-bottom: 2px solid black;
+}
+
+#b7, #b8 {
+    border-right: 2px solid black;
+}
+
+button:hover {
+    background-color: darkgray;
+    cursor: pointer;
+}
+
+.win {
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
